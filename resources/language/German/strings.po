@@ -138,11 +138,11 @@ msgstr "Gut"
 
 msgctxt "#32035"
 msgid "Great"
-msgstr "Großartig"
+msgstr "Klasse"
 
 msgctxt "#32036"
 msgid "Superb"
-msgstr "Super"
+msgstr "Großartig"
 
 msgctxt "#32037"
 msgid "Unrate this movie"
